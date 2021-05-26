@@ -1,6 +1,6 @@
 ############################################
 # File: game.py
-# Author: AJ. Gauld
+# Author: Jailton Jr.
 # Copyright: December 2000
 # 
 # This file provides an object framework for guessing games
