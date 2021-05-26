@@ -1,6 +1,6 @@
 ################################
 # File: hmgui.py
-# Author: A.J. Gauld
+# Author: Jailton Jr.
 # Copyright: 24-Feb-2001
 #
 #################################
