@@ -1,6 +1,6 @@
 ######################
 # File: Hangman.py
-# Author:   A.J. Gauld
+# Author:   Jailton Jr.
 # Version: 0.1
 # Date:    2nd April 2000
 ######################
